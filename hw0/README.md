@@ -69,7 +69,7 @@ repository associated with this course.
 For the duration of the course, you will have access to two
 repositories in the `WITS-4037` GitHub organization:
 
-1. [A homework repository](https://github.com/WITS-4037/hw)
+1. [A homework repository](https://github.com/WITS-COMS4037/hw)
 containing public information about the homework assignments. You only
 have the read access to this repository.  All the assignments and
 updates will be posted here. You should regularly check the course's
