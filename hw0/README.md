@@ -42,7 +42,7 @@ machines, and collaborate with others while working on
 them. [GitHub](https://github.com) is a hosting service for git
 repositories with a convenient web interface.
 
-It is worth your while to investe time and effort in using git and
+It is worth your while to invest time and effort in using git and
 GitHub effectively -- you will be using them throughout this course,
 and possibly for a very long time afterwards. A good place to start
 learning about them is [this](http://git-scm.com/book/en/v2)
