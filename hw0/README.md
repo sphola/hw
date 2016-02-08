@@ -31,7 +31,7 @@ completed the previous step.
 
 ** Good luck with your first assignment! **
 
-# `git` and GitHub
+## `git` and GitHub
 
 To be able effectively work on your assignments and submit them, you
 need to learn to use both `git` and GitHub.
@@ -61,7 +61,7 @@ your account, you will receive an email message with a link to your
 personal GitHub repository for this course; this email will be sent to
 the email address associated with your GitHub account.
 
-# Submitting assignments in COMS4037
+## Submitting assignments in COMS4037
 
 All assignments will be submitted by pushing to your private
 repository associated with this course.
@@ -89,7 +89,7 @@ reading a `README` for hw0.
 At the start of the course, your personal repository will be empty,
 except for the `README.md` file at its root.
 
-# Suggested workflow
+## Suggested workflow
 
 In this section, we are going to suggest a workflow for completing
 your assignments; if you find an alternative workflow more convenient,
